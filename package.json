@@ -1,0 +1,22 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrandeJuan/Ejercicio-HTML-clase-en-vivo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrandeJuan/Ejercicio-HTML-clase-en-vivo/issues"
+  },
+  "homepage": "https://github.com/GrandeJuan/Ejercicio-HTML-clase-en-vivo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
