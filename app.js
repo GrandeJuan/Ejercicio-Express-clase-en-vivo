@@ -3,6 +3,8 @@ const path = require('path');
 
 const app = express();
 
+app.use('/', express.static(__dirname + '/DH-Heroes/public'));
+
 app.listen(3030, () => {
     console.log('App listening on port 3030!');
 });
